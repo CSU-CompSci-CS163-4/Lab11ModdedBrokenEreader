@@ -1,5 +1,9 @@
 # Lab11 Modded Broken EReader
 For this lab, you will be building on Lab 9. To start, transfer your work from the lab 9 methods into the new copy of EReader.java.
+
+# Step 0 -- Copy Over Code from Lab9
+This is an extension of lab 9, so make sure to copy your code over where appropriate to avoid any issues.
+
 # Step 1 -- Writing the Methods
 For this lab, you will be expected to complete the following methods:
 - mathReader(String outputFile)
