@@ -122,10 +122,10 @@ public class EReader {
 
     public static void main(String[] args){
         ArrayList<String> myBooks = new ArrayList<>();
-        myBooks.add("src/Great_Gatsby.txt");
-        myBooks.add("src/Alice_In_Wonderland.txt");
-        myBooks.add("src/US_Constitution.txt");
-        myBooks.add("src/equations.txt");
+        myBooks.add("Great_Gatsby.txt");
+        myBooks.add("Alice_In_Wonderland.txt");
+        myBooks.add("US_Constitution.txt");
+        myBooks.add("equations.txt");
         EReader myBrokenEreader = new EReader(myBooks);
         myBrokenEreader.go();
     }
